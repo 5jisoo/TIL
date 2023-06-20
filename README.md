@@ -41,8 +41,8 @@ boostcourse [코칭스터디 11기] Let's AI 2023
 - [파이썬으로 데이터 처리하기 - Pandas](./boostcourse_Let's%20AI/week2/Pandas.ipynb)
 - [파이썬으로 시각화하기 - matplotlib](./boostcourse_Let's%20AI/week2/matplotlib.ipynb)
 - [딥러닝이란? & 딥러닝의 역사](./boostcourse_Let's%20AI/week2/about_ml.md)
-- [벡터란?]()
-- [행렬이란?]()
+- [벡터란?](./boostcourse_Let's%20AI/week2/vector.md)
+- [행렬이란?](./boostcourse_Let's%20AI/week2/matrix.md)
 
 </div>
 </details>
