@@ -2,8 +2,6 @@
 
 ## Introduction
 
----
-
 What make you a good deep learner?
 
 1. Implementation Skills
@@ -13,8 +11,6 @@ What make you a good deep learner?
    - 트렌드와 연구결과!
 
 ## Key Components of Deep Learning
-
----
 
 - The **data** that the model can learn from
 - The **model** how to transform the data
@@ -38,8 +34,6 @@ The loss function is a proxy of what we want to achieve.
 Data, Model, Loss가 모두 정해져 있는 상황에서 네트워크를 줄이는 방법
 
 ## Historical Review
-
----
 
 - 2012 - AlexNet
   - 이미지 분류를 목적으로 함.
