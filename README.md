@@ -47,4 +47,16 @@ boostcourse [코칭스터디 11기] Let's AI 2023
 </div>
 </details>
 
+<details>
+<summary>week3: 인공지능과 딥러닝</summary>
+<div markdown="1">
+
+- [경사하강법(순한맛)](./boostcourse_Let's%20AI/week3/Gradient_Descent.md)
+- [딥러닝 학습방법]()
+- [뉴럴 네트워크]()
+- [최적화의 주요 용어]()
+
+</div>
+</details>
+
 ### ERROR
